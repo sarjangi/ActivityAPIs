@@ -6,7 +6,7 @@ To test the app, please follow the instructions
 -run npm start
 -follow the https://www.boredapi.com/ for the requirements.
 -use postman to create a user. 
-	localhost:8001/api/user
+	http://localhost:8001/api/user
 	here is the sample body
  	{
   	"name":"test",
